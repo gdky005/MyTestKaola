@@ -34,6 +34,7 @@ public class MainActivity extends ActionBarActivity {
             return true;
         }
         //test test
+        //我就不想玩了，你看怎么办？
 
         return super.onOptionsItemSelected(item);
     }
